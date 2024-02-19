@@ -80,7 +80,7 @@
 "input_region_name": "전라남도",
 "input_region_name_raw": "전라남도",
 "output_region01_name" : "광주",
-"output_region01_id" : "10",
+"output_region01_id" : "97",
 "output_region01_img-url" : "https://raw.githubusercontent.com/MartineeCRM/Martinee-CRM/main/SOCAR/img/%EA%B4%91%EC%A3%BC.png?token=GHSAT0AAAAAACOMIHNPL5WYU63CBLMZYLZEZOSVYFA"
 },{
 "input_region_name": "경상북도",
