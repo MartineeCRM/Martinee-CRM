@@ -3,7 +3,7 @@
 "output_region01_name" : "경기",
 "output_region01_id" : "42",
 "output_region01_img-url" : "https://raw.githubusercontent.com/MartineeCRM/Martinee-CRM/main/SOCAR/img/%EA%B2%BD%EA%B8%B0.png?token=GHSAT0AAAAAACOMIHNO3T6YXIP62ZDHNNF2ZOSVWHA"
-},"{
+},{
 "input_region_name": "부산",
 "output_region01_name" : "통영/거제",
 "output_region01_id" : "83",
