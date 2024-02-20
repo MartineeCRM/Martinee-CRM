@@ -86,7 +86,7 @@
 "input_region_name": "경상북도",
 "input_region_name_raw": "경상북도",
 "output_region01_name" : "대구",
-"output_region01_id" : "15",
+"output_region01_id" : "85",
 "output_region01_img-url" : "https://raw.githubusercontent.com/MartineeCRM/Martinee-CRM/main/SOCAR/img/%EB%8C%80%EA%B5%AC.png?token=GHSAT0AAAAAACOMIHNPOSZ4SRAAROUPO2TUZOSVYQA"
 },{
 "input_region_name": "경상남도",
