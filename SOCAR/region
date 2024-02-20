@@ -94,4 +94,10 @@
 "output_region01_name" : "부산",
 "output_region01_id" : "21",
 "output_region01_img-url" : "https://raw.githubusercontent.com/MartineeCRM/Martinee-CRM/main/SOCAR/img/%EB%B6%80%EC%82%B0.png?token=GHSAT0AAAAAACOMIHNPIUZFZQ65EU2PYJYQZOSVYWA"
+},{
+"input_region_name": "제주도",
+"input_region_name_raw": "제주특별자치도",
+"output_region01_name" : "제주",
+"output_region01_id" : "11",
+"output_region01_img-url" : "https://raw.githubusercontent.com/MartineeCRM/Martinee-CRM/main/SOCAR/img/%EC%A0%9C%EC%A3%BC.png?token=GHSAT0AAAAAACOMIHNPHLSTDVPKXM3VFGJOZOSVZPA"
 }]}
