@@ -1,4 +1,4 @@
-{ "data" : {
+{ "data" : [{
 "REST&RECREATION": [{
 "goodsNo": 3888224,
 "goodsName": "RR LOGO OVERSIZE T-SHIRT_CHARCOAL",
@@ -53,4 +53,4 @@
 "likeCount": 0,
 "isMemberLike": false
 }]}
-}
+]}
