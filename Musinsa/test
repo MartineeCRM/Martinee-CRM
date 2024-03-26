@@ -1,6 +1,5 @@
-{
-REST&RECREATION:[
-{
+{ data : {
+REST&RECREATION:[{
 "goodsNo": 3888224,
 "goodsName": "RR LOGO OVERSIZE T-SHIRT_CHARCOAL",
 "imageUrl": "//image.msscdn.net/images/goods_img/20240221/3888224/3888224_17090103191937_500.jpg",
@@ -27,8 +26,7 @@ REST&RECREATION:[
 "labelList":[],
 "likeCount": 0,
 "isMemberLike": false
-}
-],
+}]},{
 OENIR:[
 {
 "goodsNo": 3539294,
@@ -57,6 +55,5 @@ OENIR:[
 "labelList":[],
 "likeCount": 0,
 "isMemberLike": false
-}
-]
+}]}
 }
