@@ -1,4 +1,4 @@
-"{
+{
     "brand" : [
     {
     "1989standard":
@@ -67,7 +67,7 @@
     {"sale_price":"33"},
     {"brand_name":"1989standard"}
     }
-    [
+    ]
     },
     {
     "acover":
@@ -136,7 +136,7 @@
     {"sale_price":"32"},
     {"brand_name":"acover"}
     }
-    [
+    ]
     },
     {
     "avan":
@@ -205,7 +205,7 @@
     {"sale_price":"48"},
     {"brand_name":"avan"}
     }
-    [
+    ]
     },
     {
     "compagno":
@@ -274,7 +274,7 @@
     {"sale_price":"50"},
     {"brand_name":"compagno"}
     }
-    [
+    ]
     },
     {
     "dimitriblack":
@@ -343,7 +343,7 @@
     {"sale_price":"27"},
     {"brand_name":"dimitriblack"}
     }
-    [
+    ]
     },
     {
     "drawfit":
@@ -412,7 +412,7 @@
     {"sale_price":"206"},
     {"brand_name":"drawfit"}
     }
-    [
+    ]
     },
     {
     "gakka2":
@@ -481,7 +481,7 @@
     {"sale_price":"26"},
     {"brand_name":"gakka2"}
     }
-    [
+    ]
     },
     {
     "goodlifeworks":
@@ -550,7 +550,7 @@
     {"sale_price":"23"},
     {"brand_name":"goodlifeworks"}
     }
-    [
+    ]
     },
     {
     "lafudgestore":
@@ -619,7 +619,7 @@
     {"sale_price":"59"},
     {"brand_name":"lafudgestore"}
     }
-    [
+    ]
     },
     {
     "mahagrid":
@@ -688,7 +688,7 @@
     {"sale_price":"20"},
     {"brand_name":"mahagrid"}
     }
-    [
+    ]
     },
     {
     "musinsastandard":
@@ -757,7 +757,7 @@
     {"sale_price":"45"},
     {"brand_name":"musinsastandard"}
     }
-    [
+    ]
     },
     {
     "niceghostclub":
@@ -826,7 +826,7 @@
     {"sale_price":"62"},
     {"brand_name":"niceghostclub"}
     }
-    [
+    ]
     },
     {
     "physicaleducation":
@@ -895,7 +895,7 @@
     {"sale_price":"44"},
     {"brand_name":"physicaleducation"}
     }
-    [
+    ]
     },
     {
     "trillion":
@@ -964,7 +964,7 @@
     {"sale_price":"36"},
     {"brand_name":"trillion"}
     }
-    [
+    ]
     },
     {
     "yale":
@@ -1033,5 +1033,6 @@
     {"sale_price":"44"},
     {"brand_name":"yale"}
     }
-    [
-    },"
+    ]
+    ]
+}
