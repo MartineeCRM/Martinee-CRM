@@ -1,0 +1,38 @@
+[
+ {
+  "brand": "ASICS"
+ },
+ {
+  "brand": "DISCOVERY EXPEDITION"
+ },
+ {
+  "brand": "OOFOS"
+ },
+ {
+  "brand": "HOKA"
+ },
+ {
+  "brand": "Polo Ralph Lauren"
+ },
+ {
+  "brand": "NEW BALANCE"
+ },
+ {
+  "brand": "TIMBERLAND"
+ },
+ {
+  "brand": "CROCS"
+ },
+ {
+  "brand": "SKECHERS"
+ },
+ {
+  "brand": "SUBU"
+ },
+ {
+  "brand": "UGG"
+ },
+ {
+  "brand": "MIZUNO"
+ }
+]
