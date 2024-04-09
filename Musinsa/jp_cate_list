@@ -1,0 +1,14 @@
+{ "cate" : [ 
+[{"ep_cate" : "shorts"}, {"p_cate_jp":"パンツ"}, {"r_cate":"半袖"}, {"r_cate_url":"jp/category/001?category2DepthCodes=001001&page=1"}],
+[{"ep_cate" : "suit pants_slacks"}, {"p_cate_jp":"スラックス"}, {"r_cate":"デニムパンツ"}, {"r_cate_url":"jp/category/003?category2DepthCodes=003002&page=1"}],
+[{"ep_cate" : "track pants_joggers"}, {"p_cate_jp":"スウェットパンツ"}, {"r_cate":"パーカー"}, {"r_cate_url":"jp/category/001?category2DepthCodes=001004&page=1"}],
+[{"ep_cate" : "jeans"}, {"p_cate_jp":"デニムパンツ"}, {"r_cate":"スラックス"}, {"r_cate_url":"jp/category/003?category2DepthCodes=003008&page=1"}],
+[{"ep_cate" : "track pants_joggers"}, {"p_cate_jp":"スウェットパンツ"}, {"r_cate":"スウェット"}, {"r_cate_url":"jp/category/001?category2DepthCodes=001005&page=1"}],
+[{"ep_cate" : "shirts_blouses"}, {"p_cate_jp":"シャツ/ブラウス"}, {"r_cate":"デニムパンツ"}, {"r_cate_url":"jp/category/003?category2DepthCodes=003002&page=1"}],
+[{"ep_cate" : "long sleeves"}, {"p_cate_jp":"長袖"}, {"r_cate":"デニムパンツ"}, {"r_cate_url":"jp/category/003?category2DepthCodes=003002&page=1"}],
+[{"ep_cate" : "sleeveless"}, {"p_cate_jp":"袖なし"}, {"r_cate":"半袖"}, {"r_cate_url":"jp/category/001?category2DepthCodes=001011&page=1"}],
+[{"ep_cate" : "sweatshirts"}, {"p_cate_jp":"スウェット"}, {"r_cate":"パーカー"}, {"r_cate_url":"jp/category/001?category2DepthCodes=001004&page=1"}],
+[{"ep_cate" : "short sleeves"}, {"p_cate_jp":"半袖"}, {"r_cate":"パンツ"}, {"r_cate_url":"jp/category/003?category2DepthCodes=003009&page=1"}],
+[{"ep_cate" : "hoodies"}, {"p_cate_jp":"パーカー"}, {"r_cate":"スウェットパンツ"}, {"r_cate_url":"jp/category/003?category2DepthCodes=003004&page=1"}],
+[{"ep_cate" : "short down jackets"}, {"p_cate_jp":"ダウンコート"}, {"r_cate":"デニムパンツ"}, {"r_cate_url":"jp/category/003?category2DepthCodes=003002&page=1"}]
+] }
