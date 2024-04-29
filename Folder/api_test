@@ -1,34 +1,35 @@
 {
-"product"=>
-    {"result"=>"success", 
-     "message"=>"", 
-     "data"=>
-        { "id": "0000056797", 
-           "pcode": "FLNBDA1U44", 
-           "brand_name": "NEW BALANCE", 
-           "is_mobile_use": "A", 
-           "coupon_use_yn": "Y", 
-           "listprice": "149000", 
-           "sellprice": "149000", 
-           "image_src": 
-           "https:\/\/image.folderstyle.com\/data\/folderstyle_data\/images\/product\/00\/00\/05\/67\/97\/m_0000056797.gif", 
-           "product_options": 
-                [ { "option_div": "220", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000" }, 
-                { "option_div": "225", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000" }, 
-                { "option_div": "230", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000" }, 
-                { "option_div": "235", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000" }, 
-                { "option_div": "240", "option_stock": "1", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000" }, 
-                { "option_div": "245", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000" }, 
-                { "option_div": "250", "option_stock": "1", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000" }, 
-                { "option_div": "255", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000" }, 
-                { "option_div": "260", "option_stock": "3", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000" }, 
-                { "option_div": "265", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000" }, 
-                { "option_div": "270", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000" }, 
-                { "option_div": "275", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000" }, 
-                { "option_div": "280", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000" }, 
-                { "option_div": "285", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000" }, 
-                { "option_div": "290", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000" } ], 
-           "product_color_filter": [] }
+  "product": {
+    "result": "success",
+    "message": "",
+    "data": {
+      "id": "0000056797",
+      "pcode": "FLNBDA1U44",
+      "brand_name": "NEW BALANCE",
+      "is_mobile_use": "A",
+      "coupon_use_yn": "Y",
+      "listprice": "149000",
+      "sellprice": "149000",
+      "image_src": "https://image.folderstyle.com/data/folderstyle_data/images/product/00/00/05/67/97/m_0000056797.gif",
+      "product_options": [
+        {"option_div": "220", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000"},
+        {"option_div": "225", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000"},
+        {"option_div": "230", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000"},
+        {"option_div": "235", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000"},
+        {"option_div": "240", "option_stock": "1", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000"},
+        {"option_div": "245", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000"},
+        {"option_div": "250", "option_stock": "1", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000"},
+        {"option_div": "255", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000"},
+        {"option_div": "260", "option_stock": "3", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000"},
+        {"option_div": "265", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000"},
+        {"option_div": "270", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000"},
+        {"option_div": "275", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000"},
+        {"option_div": "280", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000"},
+        {"option_div": "285", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000"},
+        {"option_div": "290", "option_stock": "0", "option_sell_ing_cnt": "0", "option_listprice": "149000", "option_price": "149000"}
+      ],
+      "product_color_filter": []
     }
-"__http_status_code__"=>200
+  },
+  "__http_status_code__": 200
 }
