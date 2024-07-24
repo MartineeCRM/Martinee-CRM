@@ -1,4 +1,5 @@
- {
+[
+{
   "external_id": "7c88b384-2eda-11ef-aa76-02807fe1874a",
   "alv_signup_date": "2024-06-19 00:02"
  },
