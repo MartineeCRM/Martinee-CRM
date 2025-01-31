@@ -29,11 +29,11 @@
  },
  {
   "keyword": "청소기",
-  "categoryNo": "BC38000000>BC38110000>BC38110600>null\n"
+  "categoryNo": "BC38000000>BC38110000>BC38110600>null"
  },
  {
   "keyword": "청소기",
-  "categoryNo": "BC38000000>BC38110000>BC38110700>null\n"
+  "categoryNo": "BC38000000>BC38110000>BC38110700>null"
  },
  {
   "keyword": "청소기",
