@@ -1,0 +1,130 @@
+[
+ {
+  "keyword": "TV",
+  "categoryNo": "BC02000000>BC02010000>BC02010100>null"
+ },
+ {
+  "keyword": "태블릿",
+  "categoryNo": "BC18000000>BC18040000>BC18040100>null"
+ },
+ {
+  "keyword": "청소기",
+  "categoryNo": "BC38000000>BC38110000>BC38110100>null"
+ },
+ {
+  "keyword": "청소기",
+  "categoryNo": "BC38000000>BC38110000>BC38110200>null"
+ },
+ {
+  "keyword": "청소기",
+  "categoryNo": "BC38000000>BC38110000>BC38110300>null"
+ },
+ {
+  "keyword": "청소기",
+  "categoryNo": "BC38000000>BC38110000>BC38110400>null"
+ },
+ {
+  "keyword": "청소기",
+  "categoryNo": "BC38000000>BC38110000>BC38110500>null"
+ },
+ {
+  "keyword": "청소기",
+  "categoryNo": "BC38000000>BC38110000>BC38110600>null\n"
+ },
+ {
+  "keyword": "청소기",
+  "categoryNo": "BC38000000>BC38110000>BC38110700>null\n"
+ },
+ {
+  "keyword": "청소기",
+  "categoryNo": "BC38000000>BC38110000>BC38110800>null"
+ },
+ {
+  "keyword": "청소기",
+  "categoryNo": "BC38000000>BC38110000>BC38110900>null"
+ },
+ {
+  "keyword": "가습기",
+  "categoryNo": "BC08000000>BC08010000>BC08010100>null"
+ },
+ {
+  "keyword": "가습기",
+  "categoryNo": "BC08000000>BC08010000>BC08010200>null"
+ },
+ {
+  "keyword": "가습기",
+  "categoryNo": "BC08000000>BC08010000>BC08010300>null"
+ },
+ {
+  "keyword": "가습기",
+  "categoryNo": "BC08000000>BC08010000>BC08010400>null"
+ },
+ {
+  "keyword": "노트북",
+  "categoryNo": "BC18000000>BC18010000>BC18010100>null"
+ },
+ {
+  "keyword": "휴대폰",
+  "categoryNo": "BC74000000>BC74010000>BC74010100>BC74010101"
+ },
+ {
+  "keyword": "휴대폰",
+  "categoryNo": "BC74000000>BC74010000>BC74010100>BC74010102"
+ },
+ {
+  "keyword": "휴대폰",
+  "categoryNo": "BC74000000>BC74010000>BC74010100>BC74010103"
+ },
+ {
+  "keyword": "휴대폰",
+  "categoryNo": "BC74000000>BC74010000>BC74010200>BC74010201"
+ },
+ {
+  "keyword": "휴대폰",
+  "categoryNo": "BC74000000>BC74010000>BC74010200>BC74010202"
+ },
+ {
+  "keyword": "휴대폰",
+  "categoryNo": "BC74000000>BC74010000>BC74010200>BC74010203"
+ },
+ {
+  "keyword": "휴대폰",
+  "categoryNo": "BC74000000>BC74010000>BC74010300>BC74010301"
+ },
+ {
+  "keyword": "휴대폰",
+  "categoryNo": "BC74000000>BC74010000>BC74010300>BC74010302"
+ },
+ {
+  "keyword": "휴대폰",
+  "categoryNo": "BC74000000>BC74010000>BC74010300>BC74010303"
+ },
+ {
+  "keyword": "휴대폰",
+  "categoryNo": "BC74000000>BC74010000>BC74010400>null"
+ },
+ {
+  "keyword": "휴대폰",
+  "categoryNo": "BC74000000>BC74010000>BC74010500>null"
+ },
+ {
+  "keyword": "휴대폰",
+  "categoryNo": "BC74000000>BC74010000>BC74010600>BC74010601"
+ },
+ {
+  "keyword": "휴대폰",
+  "categoryNo": "BC74000000>BC74010000>BC74010600>BC74010602"
+ },
+ {
+  "keyword": "휴대폰",
+  "categoryNo": "BC74000000>BC74010000>BC74010600>BC74010603"
+ },
+ {
+  "keyword": "휴대폰",
+  "categoryNo": "BC74000000>BC74010000>BC74010700>null"
+ },
+ {
+  "keyword": "안마기/안마의자",
+  "categoryNo": "BC06000000>BC06090000>BC06090300>null"
+ }
+]
