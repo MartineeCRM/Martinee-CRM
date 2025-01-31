@@ -1,0 +1,62 @@
+[
+ {
+  "keyword": "TV",
+  "categoryNo": "FC10010100"
+ },
+ {
+  "keyword": "티비",
+  "categoryNo": "FC10010100"
+ },
+ {
+  "keyword": "티브이",
+  "categoryNo": "FC10010100"
+ },
+ {
+  "keyword": "텔레비전",
+  "categoryNo": "FC10010100"
+ },
+ {
+  "keyword": "텔레비전",
+  "categoryNo": "FC10010100"
+ },
+ {
+  "keyword": "태블릿",
+  "categoryNo": "FC09020500"
+ },
+ {
+  "keyword": "테블릿",
+  "categoryNo": "FC09020500"
+ },
+ {
+  "keyword": "청소기",
+  "categoryNo": "FC10031100"
+ },
+ {
+  "keyword": "가습기",
+  "categoryNo": "FC10020100"
+ },
+ {
+  "keyword": "노트북",
+  "categoryNo": "FC09020100"
+ },
+ {
+  "keyword": "휴대폰",
+  "categoryNo": "FC09080000"
+ },
+ {
+  "keyword": "핸드폰",
+  "categoryNo": "FC09080000"
+ },
+ {
+  "keyword": "스마트폰",
+  "categoryNo": "FC09080000"
+ },
+ {
+  "keyword": "안마의자",
+  "categoryNo": "FC02010900"
+ },
+ {
+  "keyword": "안마기",
+  "categoryNo": "FC02010900"
+ }
+]
