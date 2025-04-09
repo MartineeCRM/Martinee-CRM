@@ -1,146 +1,119 @@
 [
-  {
-    "it_id": "LE1219186772",
-    "it_name": "NEW 메이크 미 블러쉬 파우더 블러쉬",
-    "it_img": "https://contents.lotteon.com/itemimage/20250304112841/LE/12/18/57/91/43/_1/30/99/70/47/6/LE1218579143_1309970476_1.jpg",
-    "price": 80000,
-    "dc_price": 40000,
-    "dc_rate": 50,
-    "ct_id": "BC73080200"
-  },
-  {
-    "it_id": "LO2464603850",
-    "it_name": "아이 컨투어 수분스틱 15ml",
-    "it_img": "https://contents.lotteon.com/itemimage/20250407175320/LO/24/64/60/38/50/_2/46/46/03/85/1/LO2464603850_2464603851_1.jpg",
-    "price": 44000,
-    "dc_price": 22000,
-    "dc_rate": 50,
-    "ct_id": "BC73100800"
-  },
-  {
-    "it_id": "LE1407303290",
-    "it_name": "[온앤온] 퍼프 슬리브 타이 블라우스 NEW5XB285",
-    "it_img": "https://contents.lotteon.com/itemimage/20250407120922/LE/12/19/07/60/18/_1/31/34/88/48/7/LE1219076018_1313488487_1.jpg",
-    "price": 164250,
-    "dc_price": 103780,
-    "dc_rate": 37,
-    "ct_id": "BC34060400"
-  },
-  {
-    "it_id": "LE1319995422",
-    "it_name": "[맥] #립글라스에어 롯데 단독 선출시",
-    "it_img": "https://contents.lotteon.com/itemimage/20250408135640/LE/13/19/99/54/22/bndl_img/LE1319995422_1.jpg",
-    "price": 39000,
-    "dc_price": 31330,
-    "dc_rate": 20,
-    "ct_id": "BC73080506"
-  },
-  {
-    "it_id": "LO2422409653",
-    "it_name": "LG 그램 신제품 15ZD90T-GX56K",
-    "it_img": "https://contents.lotteon.com/itemimage/20250408164050/LO/24/22/40/96/53/_2/42/24/09/65/4/LO2422409653_2422409654_1.jpg",
-    "price": 1899000,
-    "dc_price": 1499000,
-    "dc_rate": 21,
-    "ct_id": "BC18010100"
-  },
-  {
-    "it_id": "LO1706979147",
-    "it_name": "센텔리안24 [10+10]더마마스크3인텐시브포뮬러23ml",
-    "it_img": "https://contents.lotteon.com/itemimage/20250408140423/LO/17/06/97/91/47/bndl_img/LO1706979147_1.jpg",
-    "price": 30500,
-    "dc_price": 19340,
-    "dc_rate": 37,
-    "ct_id": "BC73100800"
-  },
-  {
-    "it_id": "LO2465162134",
-    "it_name": "롯데월드 연간권 (잠실) - 4/9일~13일",
-    "it_img": "https://contents.lotteon.com/itemimage/20250407172815/LO/24/65/16/21/34/_2/46/51/62/17/0/LO2465162134_2465162170_1.jpg",
-    "price": 123500,
-    "dc_price": 110290,
-    "dc_rate": 11,
-    "ct_id": "BC47010800"
-  },
-  {
-    "it_id": "LO2465162887",
-    "it_name": "",
-    "it_img": "https://contents.lotteon.com/itemimage/20250407183838/LO/24/65/16/28/87/_2/46/51/62/96/1/LO2465162887_2465162961_6.jpg",
-    "price": 90000,
-    "dc_price": 80370,
-    "dc_rate": 11,
-    "ct_id": "BC47010800"
-  },
-  {
-    "it_id": "LO2056669538",
-    "it_name": "[1+1벨트O] 신축성굿 남성 여름 스탠다드팬츠 2종세트 4247",
-    "it_img": "https://contents.lotteon.com/itemimage/20250408164258/LO/20/56/66/95/38/bndl_img/LO2056669538_1.jpg",
-    "price": 18830,
-    "dc_price": 17890,
-    "dc_rate": 5,
-    "ct_id": "BC31050300"
-  },
-  {
-    "it_id": "LO2177419690",
-    "it_name": "오버핏 반팔티셔츠 4종 택1",
-    "it_img": "https://contents.lotteon.com/itemimage/20250408111736/LO/21/77/41/96/90/bndl_img/LO2177419690_1.jpg",
-    "price": 41400,
-    "dc_price": 31680,
-    "dc_rate": 23,
-    "ct_id": "BC20021100"
-  },
-  {
-    "it_id": "LO2329286986",
-    "it_name": "르샵 원피스",
-    "it_img": "https://contents.lotteon.com/itemimage/20250408180655/LO/23/29/28/69/86/bndl_img/LO2329286986_1.jpg",
-    "price": 51000,
-    "dc_price": 19900,
-    "dc_rate": 61,
-    "ct_id": "BC34090400"
-  },
-  {
-    "it_id": "LE1766326375",
-    "it_name": "바야 클로그 블랙 10126-001",
-    "it_img": "https://contents.lotteon.com/itemimage/20250408140918/LE/17/66/32/63/75/bndl_img/LE1766326375_1.jpg",
-    "price": 43900,
-    "dc_price": 31860,
-    "dc_rate": 27,
-    "ct_id": "BC41090600"
-  },
-  {
-    "it_id": "LE1011993087",
-    "it_name": "[헤지스레이디스] 25SS 전상품 10% BEST \n[25SS]브이넥 카라배색 반팔 피케 티셔츠 HSTS5B903",
-    "it_img": "https://contents.lotteon.com/itemimage/20250408144916/LE/10/11/99/30/87/bndl_img/LE1011993087_1.jpg",
-    "price": 151200,
-    "dc_price": 128520,
-    "dc_rate": 15,
-    "ct_id": "BC34150500"
-  },
-  {
-    "it_id": "LO2447400060",
-    "it_name": "모놀로그 2025 SS 베스트&봄신상",
-    "it_img": "https://contents.lotteon.com/itemimage/20250408180917/LO/24/47/40/00/60/bndl_img/LO2447400060_1.jpg",
-    "price": 13900,
-    "dc_price": 9900,
-    "dc_rate": 29,
-    "ct_id": "BC34040200"
-  },
-  {
-    "it_id": "LE1596648201",
-    "it_name": "[UCLA] 25 SS 신상 봄맞이 프레피 캐주얼 아이템 추천!",
-    "it_img": "https://contents.lotteon.com/itemimage/20250408145912/LE/15/96/64/82/01/bndl_img/LE1596648201_1.jpg",
-    "price": 23000,
-    "dc_price": 19320,
-    "dc_rate": 16,
-    "ct_id": "BC36060100"
-  },
-  {
-    "it_id": "LO1391683125",
-    "it_name": "레고 아이디어 21333 빈센트 반 고흐 - 별이 빛나는 밤 [레고공식]",
-    "it_img": "https://contents.lotteon.com/itemimage/20250328140526/LO/13/91/68/31/25/bndl_img/LO1391683125_1.jpg",
-    "price": 229900,
-    "dc_price": 146010,
-    "dc_rate": 36,
-    "ct_id": "BC55120900"
-  }
+ {
+  "it_id": "LE1407303290",
+  "it_name": "[온앤온] 퍼프 슬리브 타이 블라우스 NEW5XB285",
+  "it_img": "https://contents.lotteon.com/itemimage/20250407120922/LE/12/19/07/60/18/_1/31/34/88/48/7/LE1219076018_1313488487_1.jpg",
+  "price": 164250,
+  "dc_price": 102630,
+  "dc_rate": 38,
+  "ct_id": "BC34060400"
+ },
+ {
+  "it_id": "LE1319995422",
+  "it_name": "[맥] #립글라스에어 롯데 단독 선출시",
+  "it_img": "https://contents.lotteon.com/itemimage/20250408135640/LE/13/19/99/54/22/bndl_img/LE1319995422_1.jpg",
+  "price": 39000,
+  "dc_price": 28180,
+  "dc_rate": 28,
+  "ct_id": "BC73080506"
+ },
+ {
+  "it_id": "LO2422409653",
+  "it_name": "LG 그램 신제품 15ZD90T-GX56K",
+  "it_img": "https://contents.lotteon.com/itemimage/20250408164050/LO/24/22/40/96/53/_2/42/24/09/65/4/LO2422409653_2422409654_1.jpg",
+  "price": 1731170,
+  "dc_price": 1499000,
+  "dc_rate": 13,
+  "ct_id": "BC18010100"
+ },
+ {
+  "it_id": "LO1706979147",
+  "it_name": "센텔리안24 [10+10]더마마스크3인텐시브포뮬러23ml",
+  "it_img": "https://contents.lotteon.com/itemimage/20250408140423/LO/17/06/97/91/47/bndl_img/LO1706979147_1.jpg",
+  "price": 30500,
+  "dc_price": 14540,
+  "dc_rate": 52,
+  "ct_id": "BC73100800"
+ },
+ {
+  "it_id": "LO2465162887",
+  "it_name": "부산 롯데월드 어드벤처 연간이용권, 등록일로부터 365일 무제한 이용혜택, 한정특가",
+  "it_img": "https://contents.lotteon.com/itemimage/20250407183838/LO/24/65/16/28/87/_2/46/51/62/96/1/LO2465162887_2465162961_6.jpg",
+  "price": 90000,
+  "dc_price": 80370,
+  "dc_rate": 11,
+  "ct_id": "BC47010800"
+ },
+ {
+  "it_id": "LO2056669538",
+  "it_name": "[1+1벨트O] 신축성굿 남성 여름 스탠다드팬츠 2종세트 4247",
+  "it_img": "https://contents.lotteon.com/itemimage/20250408164258/LO/20/56/66/95/38/bndl_img/LO2056669538_1.jpg",
+  "price": 25100,
+  "dc_price": 17720,
+  "dc_rate": 29,
+  "ct_id": "BC31050300"
+ },
+ {
+  "it_id": "LO2177419690",
+  "it_name": "오버핏 반팔티셔츠 4종 택1",
+  "it_img": "https://contents.lotteon.com/itemimage/20250408111736/LO/21/77/41/96/90/bndl_img/LO2177419690_1.jpg",
+  "price": 41400,
+  "dc_price": 31680,
+  "dc_rate": 23,
+  "ct_id": "BC20021100"
+ },
+ {
+  "it_id": "LO2329286986",
+  "it_name": "르샵 원피스",
+  "it_img": "https://contents.lotteon.com/itemimage/20250408180655/LO/23/29/28/69/86/bndl_img/LO2329286986_1.jpg",
+  "price": 19900,
+  "dc_price": 11740,
+  "dc_rate": 41,
+  "ct_id": "BC34090400"
+ },
+ {
+  "it_id": "LE1766326375",
+  "it_name": "바야 클로그 블랙 10126-001",
+  "it_img": "https://contents.lotteon.com/itemimage/20250408140918/LE/17/66/32/63/75/bndl_img/LE1766326375_1.jpg",
+  "price": 43900,
+  "dc_price": 33250,
+  "dc_rate": 24,
+  "ct_id": "BC41090600"
+ },
+ {
+  "it_id": "LE1011993087",
+  "it_name": "[헤지스레이디스] 25SS 전상품 10% BEST \n[25SS]브이넥 카라배색 반팔 피케 티셔츠 HSTS5B903",
+  "it_img": "https://contents.lotteon.com/itemimage/20250408144916/LE/10/11/99/30/87/bndl_img/LE1011993087_1.jpg",
+  "price": 143100,
+  "dc_price": 95060,
+  "dc_rate": 34,
+  "ct_id": "BC34150500"
+ },
+ {
+  "it_id": "LO2447400060",
+  "it_name": "모놀로그 2025 SS 베스트&봄신상",
+  "it_img": "https://contents.lotteon.com/itemimage/20250408180917/LO/24/47/40/00/60/bndl_img/LO2447400060_1.jpg",
+  "price": 13900,
+  "dc_price": 9700,
+  "dc_rate": 30,
+  "ct_id": "BC34040200"
+ },
+ {
+  "it_id": "LE1596648201",
+  "it_name": "[UCLA] 25 SS 신상 봄맞이 프레피 캐주얼 아이템 추천!",
+  "it_img": "https://contents.lotteon.com/itemimage/20250408145912/LE/15/96/64/82/01/bndl_img/LE1596648201_1.jpg",
+  "price": 23000,
+  "dc_price": 17660,
+  "dc_rate": 23,
+  "ct_id": "BC36060100"
+ },
+ {
+  "it_id": "LO1391683125",
+  "it_name": "레고 아이디어 21333 빈센트 반 고흐 - 별이 빛나는 밤 [레고공식]",
+  "it_img": "https://contents.lotteon.com/itemimage/20250328140526/LO/13/91/68/31/25/bndl_img/LO1391683125_1.jpg",
+  "price": 179300,
+  "dc_price": 143500,
+  "dc_rate": 20,
+  "ct_id": "BC55120900"
+ }
 ]
