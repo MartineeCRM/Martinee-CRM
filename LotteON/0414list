@@ -5,7 +5,7 @@
     "it_img": "https://contents.lotteon.com/itemimage/20250411120149/LO/22/75/28/18/67/bndl_img/LO2275281867_1.jpg",
     "price": 16330,
     "dc_price": 4560,
-    "Column7": 72
+    "dc_rate": 72
   },
   {
     "it_id": "LO1395182856",
@@ -13,7 +13,7 @@
     "it_img": "https://contents.lotteon.com/itemimage/20250320091504/LO/24/06/81/51/60/_2/40/68/15/16/1/LO2406815160_2406815161_1.jpg",
     "price": 88000,
     "dc_price": 48580,
-    "Column7": 45
+    "dc_rate": 45
   },
   {
     "it_id": "LE1001250468",
@@ -21,7 +21,7 @@
     "it_img": "https://contents.lotteon.com/itemimage/20250402183903/LE/10/01/25/04/68/bndl_img/LE1001250468_1.jpg",
     "price": 107200,
     "dc_price": 74260,
-    "Column7": 31
+    "dc_rate": 31
   },
   {
     "it_id": "LE1319771699",
@@ -29,7 +29,7 @@
     "it_img": "https://contents.lotteon.com/itemimage/20250403111842/LE/12/19/18/55/36/_1/31/43/30/07/2/LE1219185536_1314330072_1.jpg",
     "price": 112000,
     "dc_price": 83320,
-    "Column7": 26
+    "dc_rate": 26
   },
   {
     "it_id": "LE1313277224",
@@ -37,6 +37,6 @@
     "it_img": "https://contents.lotteon.com/itemimage/20250410163959/LE/12/18/76/41/76/_1/31/13/58/11/4/LE1218764176_1311358114_1.jpg",
     "price": 208000,
     "dc_price": 187200,
-    "Column7": 10
+    "dc_rate": 10
   }
 ]
