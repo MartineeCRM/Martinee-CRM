@@ -1,0 +1,42 @@
+[
+  {
+    "it_id": "LO2025678193",
+    "it_name": "에뛰드 단독기획 세트 - 4종 (웜/쿨 택1) +사은증정 (정상가 62,000원)",
+    "it_img": "https://contents.lotteon.com/itemimage/20250409132134/LO/24/51/27/70/60/_2/45/12/77/06/1/LO2451277060_2451277061_1.jpg",
+    "price": 62000,
+    "dc_price": 22900,
+    "dc_rate": 63
+  },
+  {
+    "it_id": "LO2450292961",
+    "it_name": "Sopy Collar Short-Sleeve - 6COL",
+    "it_img": "https://contents.lotteon.com/itemimage/20250317190517/LO/24/53/53/93/34/_2/45/35/39/33/5/LO2453539334_2453539335_1.jpg",
+    "price": 45000,
+    "dc_price": 19580,
+    "dc_rate": 56
+  },
+  {
+    "it_id": "LO1386446059",
+    "it_name": "[온쇼페][닥스키즈] 봄맞이 소풍룩 아우터/티셔츠/팬츠 외 ~68% 할인",
+    "it_img": "https://contents.lotteon.com/itemimage/20250414150538/LO/13/86/44/60/59/bndl_img/LO1386446059_1.jpg",
+    "price": 41400,
+    "dc_price": 24640,
+    "dc_rate": 40
+  },
+  {
+    "it_id": "LE1411916555",
+    "it_name": "[메트로시티] 자외선 차단 필수템! 실용 만점 우양산 할인 혜택!",
+    "it_img": "https://contents.lotteon.com/itemimage/20250409100946/LE/14/11/91/65/55/bndl_img/LE1411916555_1.jpg",
+    "price": 34000,
+    "dc_price": 25200,
+    "dc_rate": 26
+  },
+  {
+    "it_id": "LE1325707723",
+    "it_name": "시어 핸드크림 150ml 듀오 세트 (+핸드크림 정품용량+파우치)",
+    "it_img": "https://contents.lotteon.com/itemimage/20250411104836/LE/12/19/19/68/22/_1/31/44/21/37/4/LE1219196822_1314421374_1.jpg",
+    "price": 82000,
+    "dc_price": 60640,
+    "dc_rate": 26
+  }
+]
