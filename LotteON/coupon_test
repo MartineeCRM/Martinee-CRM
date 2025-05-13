@@ -1,0 +1,21 @@
+[
+{
+    "coupon_name": "테스트 쿠폰",
+    "category_name": "스포츠",
+    "category_id": "test",
+    "dc_rate": 46
+  },
+
+{
+    "coupon_name": "테스트 쿠폰1",
+    "category_name": "스포츠1",
+    "category_id": "test1",
+    "dc_rate": 45
+  },
+{
+    "coupon_name": "테스트 쿠폰2",
+    "category_name": "스포츠2",
+    "category_id": "test2",
+    "dc_rate": 44
+  }
+]
