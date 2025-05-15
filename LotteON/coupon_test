@@ -1,21 +1,27 @@
 [
 {
-    "coupon_name": "테스트 쿠폰",
+    "coupon_name": "스포츠 제품 10%",
     "category_name": "스포츠",
-    "category_id": "test",
-    "dc_rate": 46
+    "category_id": "1234",
+    "brand_name" : "나이키",
+    "brand_id" : "01234"
+    "dc_rate": 10
   },
 
 {
-    "coupon_name": "테스트 쿠폰1",
-    "category_name": "기타등산잡화",
-    "category_id": "BC20030100",
-    "dc_rate": 45
+    "coupon_name": "가전 제품 10%",
+    "category_name": "가전",
+    "category_id": "1236",
+    "brand_name" : "삼성전자",
+    "brand_id" : "01236"
+    "dc_rate": 10
   },
 {
-    "coupon_name": "테스트 쿠폰2",
-    "category_name": "스포츠2",
-    "category_id": "test2",
-    "dc_rate": 44
+    "coupon_name": "뷰티 제품 10%",
+    "category_name": "뷰티",
+    "category_id": "1235",
+    "brand_name" : "입생로랑",
+    "brand_id" : "01235"
+    "dc_rate": 10
   }
 ]
