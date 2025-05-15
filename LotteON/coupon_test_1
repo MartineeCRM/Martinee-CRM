@@ -8,8 +8,8 @@
 
 {
     "coupon_name": "테스트 쿠폰1",
-    "category_name": "스포츠1",
-    "category_id": "test1",
+    "category_name": "기타등산잡화",
+    "category_id": "BC20030100",
     "dc_rate": 45
   },
 {
