@@ -4,7 +4,7 @@
     "category_name": "스포츠",
     "category_id": "1234",
     "brand_name" : "나이키",
-    "brand_id" : "01234"
+    "brand_id" : "01234",
     "dc_rate": 10
   },
 {
@@ -12,7 +12,7 @@
     "category_name": "기타등산잡화",
     "category_id": "BC20030100",
     "brand_name" : "노스페이스",
-    "brand_id" : "01236"
+    "brand_id" : "01236",
     "dc_rate": 10
   },
 {
@@ -20,7 +20,7 @@
     "category_name": "신발",
     "category_id": "BC41000000",
     "brand_name" : "온러닝",
-    "brand_id" : "P10107"
+    "brand_id" : "P10107",
     "dc_rate": 10
   }
 ]
