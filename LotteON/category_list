@@ -1,362 +1,152 @@
 [
-  {
-    "category_no": "BC52000000",
-    "category_name": "인테리어/조명/DIY",
-    "store_no": "59227"
-  },
-  {
-    "category_no": "BC63000000",
-    "category_name": "침구/패브릭",
-    "store_no": "59227"
-  },
-  {
-    "category_no": "BC64000000",
-    "category_name": "가구",
-    "store_no": "59227"
-  },
-  {
-    "category_no": "BC02000000",
-    "category_name": "TV/영상가전",
-    "store_no": "59226"
-  },
-  {
-    "category_no": "BC08000000",
-    "category_name": "계절가전",
-    "store_no": "59226"
-  },
-  {
-    "category_no": "BC38000000",
-    "category_name": "생활가전",
-    "store_no": "59226"
-  },
-  {
-    "category_no": "BC59000000",
-    "category_name": "주방가전",
-    "store_no": "59226"
-  },
-  {
-    "category_no": "BC07000000",
-    "category_name": "게임기",
-    "store_no": "59225"
-  },
-  {
-    "category_no": "BC18000000",
-    "category_name": "노트북/PC/태블릿",
-    "store_no": "59225"
-  },
-  {
-    "category_no": "BC24000000",
-    "category_name": "모니터/프린터/복합기",
-    "store_no": "59225"
-  },
-  {
-    "category_no": "BC40000000",
-    "category_name": "스마트기기",
-    "store_no": "59225"
-  },
-  {
-    "category_no": "BC51000000",
-    "category_name": "음향기기/이어폰",
-    "store_no": "59225"
-  },
-  {
-    "category_no": "BC56000000",
-    "category_name": "저장장치/부품/주변기기",
-    "store_no": "59225"
-  },
-  {
-    "category_no": "BC65000000",
-    "category_name": "카메라/광학기기",
-    "store_no": "59225"
-  },
-  {
-    "category_no": "BC74000000",
-    "category_name": "휴대폰/악세서리",
-    "store_no": "59225"
-  },
-  {
-    "category_no": "BC20000000",
-    "category_name": "등산/아웃도어",
-    "store_no": "59222"
-  },
-  {
-    "category_no": "BC53000000",
-    "category_name": "자동차/오토바이",
-    "store_no": "59228"
-  },
-  {
-    "category_no": "BC54000000",
-    "category_name": "자전거/스키/레저",
-    "store_no": "59222"
-  },
-  {
-    "category_no": "BC66000000",
-    "category_name": "캠핑/낚시",
-    "store_no": "59222"
-  },
-  {
-    "category_no": "BC23000000",
-    "category_name": "명품",
-    "store_no": "59220"
-  },
-  {
-    "category_no": "BC26000000",
-    "category_name": "반려동물",
-    "store_no": "59229"
-  },
-  {
-    "category_no": "BC29000000",
-    "category_name": "뷰티기기",
-    "store_no": "59217"
-  },
-  {
-    "category_no": "BC71000000",
-    "category_name": "헤어/바디",
-    "store_no": "59217"
-  },
-  {
-    "category_no": "BC73000000",
-    "category_name": "화장품/향수",
-    "store_no": "59217"
-  },
-  {
-    "category_no": "BC30000000",
-    "category_name": "브랜드가방",
-    "store_no": "59218_59219"
-  },
-  {
-    "category_no": "BC32000000",
-    "category_name": "브랜드신발",
-    "store_no": "59218_59219"
-  },
-  {
-    "category_no": "BC35000000",
-    "category_name": "브랜드잡화/넥타이",
-    "store_no": "59218_59219"
-  },
-  {
-    "category_no": "BC31000000",
-    "category_name": "브랜드남성의류",
-    "store_no": "59218_59219"
-  },
-  {
-    "category_no": "BC33000000",
-    "category_name": "브랜드언더웨어",
-    "store_no": "59218_59219"
-  },
-  {
-    "category_no": "BC34000000",
-    "category_name": "브랜드여성의류",
-    "store_no": "59218_59219"
-  },
-  {
-    "category_no": "BC36000000",
-    "category_name": "브랜드진/캐주얼",
-    "store_no": "59218_59219"
-  },
-  {
-    "category_no": "BC10000000",
-    "category_name": "공구/안전용품",
-    "store_no": "59228"
-  },
-  {
-    "category_no": "BC37000000",
-    "category_name": "수납/생활잡화",
-    "store_no": "59224"
-  },
-  {
-    "category_no": "BC60000000",
-    "category_name": "주방용품",
-    "store_no": "59224"
-  },
-  {
-    "category_no": "BC61000000",
-    "category_name": "욕실/청소용품",
-    "store_no": "59224"
-  },
-  {
-    "category_no": "BC78000000",
-    "category_name": "생활용품",
-    "store_no": "59224"
-  },
-  {
-    "category_no": "BC09000000",
-    "category_name": "골프의류",
-    "store_no": "59222"
-  },
-  {
-    "category_no": "BC13000000",
-    "category_name": "구기/라켓",
-    "store_no": "59222"
-  },
-  {
-    "category_no": "BC41000000",
-    "category_name": "스포츠의류/운동화",
-    "store_no": "59222"
-  },
-  {
-    "category_no": "BC72000000",
-    "category_name": "요가/수영복",
-    "store_no": "59222"
-  },
-  {
-    "category_no": "BC79000000",
-    "category_name": "골프용품",
-    "store_no": "59222"
-  },
-  {
-    "category_no": "BC80000000",
-    "category_name": "헬스/수영용품",
-    "store_no": "59222"
-  },
-  {
-    "category_no": "BC03000000",
-    "category_name": "가공식품",
-    "store_no": "59223"
-  },
-  {
-    "category_no": "BC11000000",
-    "category_name": "과일/채소/쌀",
-    "store_no": "59223"
-  },
-  {
-    "category_no": "BC12000000",
-    "category_name": "과자/간식",
-    "store_no": "59223"
-  },
-  {
-    "category_no": "BC15000000",
-    "category_name": "김치/반찬",
-    "store_no": "59223"
-  },
-  {
-    "category_no": "BC17000000",
-    "category_name": "냉장/냉동/간편식",
-    "store_no": "59223"
-  },
-  {
-    "category_no": "BC39000000",
-    "category_name": "수산/건어물",
-    "store_no": "59223"
-  },
-  {
-    "category_no": "BC57000000",
-    "category_name": "정육/계란",
-    "store_no": "59223"
-  },
-  {
-    "category_no": "BC67000000",
-    "category_name": "커피/생수/음료",
-    "store_no": "59223"
-  },
-  {
-    "category_no": "BC49000000",
-    "category_name": "유아동신발/잡화",
-    "store_no": "59221"
-  },
-  {
-    "category_no": "BC50000000",
-    "category_name": "유아동의류",
-    "store_no": "59221"
-  },
-  {
-    "category_no": "BC55000000",
-    "category_name": "장난감/완구",
-    "store_no": "59221"
-  },
-  {
-    "category_no": "BC14000000",
-    "category_name": "유아동",
-    "store_no": "59221"
-  },
-  {
-    "category_no": "BC28000000",
-    "category_name": "분유/이유식",
-    "store_no": "59221"
-  },
-  {
-    "category_no": "BC62000000",
-    "category_name": "출산/육아용품",
-    "store_no": "59221"
-  },
-  {
-    "category_no": "BC16000000",
-    "category_name": "남성의류",
-    "store_no": "59219"
-  },
-  {
-    "category_no": "BC45000000",
-    "category_name": "언더웨어",
-    "store_no": "59218_59219"
-  },
-  {
-    "category_no": "BC46000000",
-    "category_name": "여성의류",
-    "store_no": "59218"
-  },
-  {
-    "category_no": "BC04000000",
-    "category_name": "가방/지갑",
-    "store_no": "59218_59219"
-  },
-  {
-    "category_no": "BC42000000",
-    "category_name": "시계/주얼리",
-    "store_no": "59218_59219"
-  },
-  {
-    "category_no": "BC43000000",
-    "category_name": "신발",
-    "store_no": "59218_59219"
-  },
-  {
-    "category_no": "BC99000000",
-    "category_name": "잡화",
-    "store_no": "59218_59219"
-  },
-  {
-    "category_no": "BC19000000",
-    "category_name": "도서/음반/롯데모바일상품권",
-    "store_no": "59231"
-  },
-  {
-    "category_no": "BC25000000",
-    "category_name": "문구/사무용품",
-    "store_no": "59230"
-  },
-  {
-    "category_no": "BC44000000",
-    "category_name": "악기/취미/원예",
-    "store_no": "59230"
-  },
-  {
-    "category_no": "BC70000000",
-    "category_name": "해외직구",
-    "store_no": "59232"
-  },
-  {
-    "category_no": "BC05000000",
-    "category_name": "건강/다이어트식품",
-    "store_no": "59223"
-  },
-  {
-    "category_no": "BC06000000",
-    "category_name": "건강용품",
-    "store_no": "59224"
-  },
-  {
-    "category_no": "BC47000000",
-    "category_name": "여행/레저",
-    "store_no": "59231"
-  },
-  {
-    "category_no": "BC01000000",
-    "category_name": "e쿠폰/티켓",
-    "store_no": "59231"
-  },
-  {
-    "category_no": "BC27000000",
-    "category_name": "생활편의/서비스",
-    "store_no": "59231"
-  }
+ {
+  "category_no": "BC07000000",
+  "category_name": "PC/게임",
+  "store_no": 59225
+ },
+ {
+  "category_no": "BC18000000",
+  "category_name": "PC/게임",
+  "store_no": 59225
+ },
+ {
+  "category_no": "BC24000000",
+  "category_name": "PC/게임",
+  "store_no": 59225
+ },
+ {
+  "category_no": "BC40000000",
+  "category_name": "PC/게임",
+  "store_no": 59225
+ },
+ {
+  "category_no": "BC51000000",
+  "category_name": "PC/게임",
+  "store_no": 59225
+ },
+ {
+  "category_no": "BC56000000",
+  "category_name": "PC/게임",
+  "store_no": 59225
+ },
+ {
+  "category_no": "BC65000000",
+  "category_name": "PC/게임",
+  "store_no": 59225
+ },
+ {
+  "category_no": "BC74000000",
+  "category_name": "PC/게임",
+  "store_no": 59225
+ },
+ {
+  "category_no": "BC20000000",
+  "category_name": "스포츠/레저",
+  "store_no": 59222
+ },
+ {
+  "category_no": "BC54000000",
+  "category_name": "스포츠/레저",
+  "store_no": 59222
+ },
+ {
+  "category_no": "BC66000000",
+  "category_name": "스포츠/레저",
+  "store_no": 59222
+ },
+ {
+  "category_no": "BC09000000",
+  "category_name": "스포츠/레저",
+  "store_no": 59222
+ },
+ {
+  "category_no": "BC13000000",
+  "category_name": "스포츠/레저",
+  "store_no": 59222
+ },
+ {
+  "category_no": "BC41000000",
+  "category_name": "스포츠/레저",
+  "store_no": 59222
+ },
+ {
+  "category_no": "BC72000000",
+  "category_name": "스포츠/레저",
+  "store_no": 59222
+ },
+ {
+  "category_no": "BC79000000",
+  "category_name": "스포츠/레저",
+  "store_no": 59222
+ },
+ {
+  "category_no": "BC80000000",
+  "category_name": "스포츠/레저",
+  "store_no": 59222
+ },
+ {
+  "category_no": "BC53000000",
+  "category_name": "자동차/공구",
+  "store_no": 59228
+ },
+ {
+  "category_no": "BC10000000",
+  "category_name": "자동차/공구",
+  "store_no": 59228
+ },
+ {
+  "category_no": "BC37000000",
+  "category_name": "생활/건강",
+  "store_no": 59224
+ },
+ {
+  "category_no": "BC60000000",
+  "category_name": "생활/건강",
+  "store_no": 59224
+ },
+ {
+  "category_no": "BC61000000",
+  "category_name": "생활/건강",
+  "store_no": 59224
+ },
+ {
+  "category_no": "BC78000000",
+  "category_name": "생활/건강",
+  "store_no": 59224
+ },
+ {
+  "category_no": "BC06000000",
+  "category_name": "생활/건강",
+  "store_no": 59224
+ },
+ {
+  "category_no": "BC19000000",
+  "category_name": "여행/e쿠폰",
+  "store_no": 59231
+ },
+ {
+  "category_no": "BC47000000",
+  "category_name": "여행/e쿠폰",
+  "store_no": 59231
+ },
+ {
+  "category_no": "BC01000000",
+  "category_name": "여행/e쿠폰",
+  "store_no": 59231
+ },
+ {
+  "category_no": "BC27000000",
+  "category_name": "여행/e쿠폰",
+  "store_no": 59231
+ },
+ {
+  "category_no": "BC25000000",
+  "category_name": "취미/문구",
+  "store_no": 59230
+ },
+ {
+  "category_no": "BC44000000",
+  "category_name": "취미/문구",
+  "store_no": 59230
+ }
 ]
