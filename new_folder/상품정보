@@ -1,0 +1,34 @@
+{
+  "tickets": [
+    {
+      "product_id": "55259",
+      "product_name": "[성남] 2025 크리스마스특집 가족뮤지컬 [산타와루돌프]",
+      "genre_depth1_id": "12345",
+      "genre_depth1_name": "뮤지컬",
+      "genre_depth2_id": "23456",
+      "genre_depth2_name": "창작",
+      "is_family" : true,
+      "ticket_open_date": "2025-11-01T15:00:00+09:00",
+      "show_start_date": "2025-12-01T00:00:00+09:00",
+      "show_end_date": "2025-12-31T00:00:00+09:00",
+      "is_soldout": true,
+      "remaining_show_cnt": 50,
+      "soldout_show_cnt": 10,
+      "venue_id": "12345",
+      "venue_name": "한국잡월드 나래울극장",
+      "region_name": "경기도",
+      "is_earlybird" : false,
+      "ticket_grade": "A석|R석|VIP석",
+      "ticket_price": "50000|70000|100000",
+      "age_rating": "24개월이상 관람가",
+      "original_book_id": "12345",
+      "ost_album_id": "12345",
+      "dvd_id": "12345",
+      "organizer_id": "12345|123456",
+      "organizer_name": "(주)조이컬처|한국잡월드",
+      "actor_id": "12345|123456|123457",
+      "actor_name": "홍길동|김철수|이영희",
+      "img_url": "https://tkfile.yes24.com/upload2/PerfBlog/202509/20250910/20250910-55259.jpg"
+    }
+  ]
+}
